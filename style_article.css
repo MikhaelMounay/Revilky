@@ -12,12 +12,13 @@ article.solution {
 h2 {
     text-decoration: underline;
     text-transform: uppercase;
-    color: #cbf3f0;
-    font-size: 22pt;
+    color: #b1b8b7;
+    font-size: 28pt;
     text-shadow: rgb(49, 49, 49) 2px 2px;
     margin-left: 20px;
     letter-spacing: 1px;
     line-height: 1.5;
+    text-align: center;
 }
 
 .p_introductory {
@@ -44,6 +45,7 @@ p {
     opacity: 0;
     transform: translate(0, 10vh);
     transition: all 2s;
+    color: rgb(216, 233, 237);
 }
 
 .tag.visible {
@@ -79,10 +81,4 @@ sub {
         opacity: 1;
     }
 }
-.Figure {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: center;
-}
+
