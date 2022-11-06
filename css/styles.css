@@ -8,6 +8,10 @@
     line-height: unset;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body.home_body {
     font-family: 'Open Sans', sans-serif;
     background: linear-gradient( 0deg, rgb(30, 56, 56) 0%, rgb(79, 112, 95) 100%);
