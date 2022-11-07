@@ -12,7 +12,7 @@ This project was to be #1 in Africa & Middle East and nominated to be a global f
  - [Project's Page on the EO Dashboard Hackathon website](https://www.eodashboardhackathon.org/challenges/interconnected-earth-system-impact/comparative-analysis/teams/revilky/project)
  
 ## Used Techs / Services
-### Mainly for the data
+### Mainly for project's the data
  - [EO Dashboard](https://eodashboard.org/)
  - [OpenStreetMap](https://www.openstreetmap.org/)
 
