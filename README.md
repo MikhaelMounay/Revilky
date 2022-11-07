@@ -1,7 +1,7 @@
 # Revilky
 
-**Revilky was a project made as a part of a solution for the challenge "A Comparative Analysis" in [EO Dashboard Hackathon 2021](https://www.eodashboardhackathon.org/) by NASA.
-This project was to be #1 in Africa & Middle East and nominated to be a global finalist.**
+***Revilky was a project made as a part of a solution for the challenge "A Comparative Analysis" in [EO Dashboard Hackathon 2021](https://www.eodashboardhackathon.org/) by NASA.
+This project was to be #1 in Africa & Middle East and nominated to be a global finalist.***
 
 ## Revilky Summary
 *The COVID-19 pandemics affected the economy of many countries causing many troubles in their economic system. A comparative analysis was done between some continents taking their major countries, for example, the USA, France, and Japan before and after COVID-19 in two different criteria, economic impacts and air quality. For example, more than one billion passengers in the USA were removed representing a decline of 64.4% of global passenger traffic due to COVID-19. In France, the amount of NO2, NO, and CO levels in the air, were reduced by 67%, 78%, and 62%, respectively, resulting in an 80% reduction in road traffic.*
