@@ -18,8 +18,9 @@ This project was to be #1 in Africa & Middle East and nominated to be a global f
 
 ### For the Web
  - HTML/CSS/JS
- - [Bootstrap 5](https://getbootstrap.com/)
  - [jQuery](https://jquery.com/)
+ - [Bootstrap 5](https://getbootstrap.com/)
+ 
  
  ### For the Android App
  - [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
