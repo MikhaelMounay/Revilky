@@ -4,7 +4,7 @@
 This project was to be #1 in Africa & Middle East and nominated to be a global finalist.***
 
 ## Revilky Summary
-*The COVID-19 pandemics affected the economy of many countries causing many troubles in their economic system. A comparative analysis was done between some continents taking their major countries, for example, the USA, France, and Japan before and after COVID-19 in two different criteria, economic impacts and air quality. For example, more than one billion passengers in the USA were removed representing a decline of 64.4% of global passenger traffic due to COVID-19. In France, the amount of NO2, NO, and CO levels in the air, were reduced by 67%, 78%, and 62%, respectively, resulting in an 80% reduction in road traffic.*
+*The COVID-19 pandemics affected the economy of many countries causing many troubles in their economic system. A comparative analysis was done between some continents taking their major countries, for example, the USA, France, and Japan before and after COVID-19 in two different criteria, economic impacts and air quality. For example, more than one billion passengers in the USA were removed representing a decline of 64.4% of global passenger traffic due to COVID-19. In France, the amount of NO<sub>2</sub>, NO, and CO levels in the air, were reduced by 67%, 78%, and 62%, respectively, resulting in an 80% reduction in road traffic.*
 
 ## Links
  - [Project's PowerPoint Presentation](https://docs.google.com/presentation/d/1L0mmIjSMhCyW_zOD5PqoC2yZ8iEa_KFjTTBrD1J6BxA/edit?usp=sharing)
