@@ -17,10 +17,10 @@ This project was to be #1 in Africa & Middle East and nominated to be a global f
  - [OpenStreetMap](https://www.openstreetmap.org/)
 
 ### For the Web
- - HTML/CSS/JS
- - [jQuery](https://jquery.com/)
- - [Bootstrap 5](https://getbootstrap.com/)
+ - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square)
+ - [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=flat-square)](https://jquery.com/)
+ - [![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat-square)](https://getbootstrap.com/)
  
  
  ### For the Android App
- - [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
+ - [![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=flat-square)](https://dart.dev/) + [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat-square)](https://flutter.dev/)
